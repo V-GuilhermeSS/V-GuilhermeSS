@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Bacharelado em Sistemas de Informação** pela Uninter  
 💻 Apaixonado por tecnologia, desenvolvimento e soluções criativas  
-🔧 Buscando me tornar um **desenvolvedor Full Stack**  
+🔧  Buscando me tornar um **desenvolvedor Back-end** (ou Front-end) até quem sabe me tornar um **Full Stack** no futuro  
 🌱 Atualmente focado em aprender, praticar e compartilhar conhecimento  
 📬 Fique à vontade para me chamar ou colaborar em qualquer projeto!
 
@@ -11,7 +11,6 @@
 ## 🚀 Sobre mim
 
 - 👨‍💻 Meu username é **V-GuilhermeSS**, mas pode me chamar de **Guilherme**
-- 💡 Pretendo me tornar um **desenvolvedor Full Stack** (Front + Back-end)
 - 🤝 Estou aprendendo e conto com a colaboração da comunidade para me ajudar a desenvolver novas habilidades
 - 🎯 Meu foco é evoluir aos poucos, com projetos práticos e reais
 
