@@ -29,8 +29,9 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam e como poss
 
 ## 📈 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-GuilhermSS&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-GuilhermSS&layout=compact&theme=tokyonight)
+![Guilherme's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=V-GuilhermSS&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=V-GuilhermSS&layout=compact&theme=tokyonight)
 
 ---
 
