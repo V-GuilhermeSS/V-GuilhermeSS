@@ -37,7 +37,7 @@
 ## 🛠️ Projetos em desenvolvimento
 
 - 🎲 `Super Bingo` – Aplicativo de sorteio com interface gráfica (Python + Tkinter)  
-- 🧹 `Mac Cleaner` – Desinstalador de apps para macOS com interface PyQt  
+- 🧹 `AppRemover` – Desinstalador de aplicativos para macOS com interface PyQt5
 > *Ambos em fase de testes. Sugestões e contribuições são bem-vindas!*
 
 ---
